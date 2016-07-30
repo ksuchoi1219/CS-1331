@@ -1,0 +1,10 @@
+PYTHON
+
+Terms
+1. Input: get data from the keyboard, a file, or some other device.
+2. Output: Display data on the screen or send data to a file or other device.
+3. Conditional execution: Check for certain conditions and execute the appropriate sequence of statements.
+4. Syntax error: the process fails due to the syntax error and returns an error message.
+5. Runtime error: the error does not appear until running the program.
+6. Semantic error: the error that does not produce intended outcome.
+7. 
